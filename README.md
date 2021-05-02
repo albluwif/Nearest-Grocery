@@ -22,7 +22,7 @@ as this data is not readily available in the Volusia data set.(Dataset Source: v
 For use the dataset in your database, run these queries load_groceries_distances_data.sql to create a temp table with parid and groc_distance, load the data into, 
 and then update joined with parcel table  based on parid. 
 
-This is a sample of groceries_distance.txt
+This is a sample of https://github.com/albluwif/Nearest-Grocery/blob/main/groceries_distances.rar
 
 ![image](https://user-images.githubusercontent.com/82927514/116818847-71775c00-ab3b-11eb-8c97-58de9f363fb0.png)
 
