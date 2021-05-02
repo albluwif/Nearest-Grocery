@@ -1,7 +1,7 @@
 # Nearest-Grocery
 
 **Objective:**
-As a part of CS540 project, this GitHub repository aims to determine the distance in miles from all parcels in Volusia County to it's nearest grocery, 
+as part of CS540 project, this GitHub repository aims to determine the distance in miles from all parcels in Volusia County to it's nearest grocery, 
 as this data is not readily available in the Volusia data set.(Dataset Source: volusia.org).
 
 **Process:**
