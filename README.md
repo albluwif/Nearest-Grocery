@@ -17,6 +17,10 @@ as this data is not readily available in the Volusia data set.(Dataset Source: v
 	You can find the SQL queries in Nearest Grocery.sql
 4. Step #2 and #3 process were looped through the entire volusia.parcel table for all parid's.
 	Run the python script update_grocery_distances.py to update all possible parcels with their nearest grocery.
+5. Showing the groceries data in QGIS as a layer.
+
+![1](https://user-images.githubusercontent.com/82927514/117078761-85bc8400-ad08-11eb-8047-8344548640b9.png)
+
 
 **Usage of groceries dataset:**
 For use the dataset in your database, run these queries load_groceries_distances_data.sql to create a temp table with parid and groc_distance, load the data into, 
